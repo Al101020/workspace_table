@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al101020/workspace_table.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Александр Мельников",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Al101020/workspace_table/issues"
+  },
+  "homepage": "https://github.com/Al101020/workspace_table#readme"
+}
